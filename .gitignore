@@ -1,0 +1,5 @@
+voronoi
+*.ppm
+*.dSYM
+.build/
+.DS_Store
