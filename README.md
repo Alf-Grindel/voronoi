@@ -1,6 +1,6 @@
 # Voronoi using Jai
 
-![output] (./run_tree/output.png)
+![output](./run_tree/output.png)
 
 ## Quick Start
 
